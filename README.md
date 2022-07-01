@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá!👋
+
+![image](https://user-images.githubusercontent.com/80078418/176973368-87021cff-c8ad-4c00-bb86-375344ba078c.png)
+
+
 
 <!--
 **alineviana/alineviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
