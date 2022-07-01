@@ -1,7 +1,15 @@
-### Olá!👋
+## Olá, Devs! 👋
 
 ![image](https://user-images.githubusercontent.com/80078418/176973368-87021cff-c8ad-4c00-bb86-375344ba078c.png)
 
+### Atualmente estou estudando:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  width=50px/>
+          
+          
+          
+          
+          
+          
 
 
 <!--
