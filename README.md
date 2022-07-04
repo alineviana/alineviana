@@ -1,6 +1,6 @@
 ## Hello Devs!👋
 
-![image](https://user-images.githubusercontent.com/80078418/176973368-87021cff-c8ad-4c00-bb86-375344ba078c.png)
+![image](https://camo.githubusercontent.com/13309fbe8d19ed554f2e6dd23aa984250d58ee205ef648849c4e4217da999d52/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31302f34363839363138342d62363739666338302d636533302d313165382d383862662d3932316539623738386637632e6769663f726573697a653d323030253243323030)
 
 ### 🌱 Learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  width=50px/> 
