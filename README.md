@@ -5,16 +5,16 @@
 
 # <img src="wave.gif" width=30px> I'm Aline! 
 
-#### 📝 I'm a Software Engineering Student.
+#### - 📝 I'm a Software Engineering Student.
 
-#### 💻 Learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=20px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=20px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=20px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=20px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=20px/> 
+#### - 💻 Learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=20px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=20px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=20px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=20px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=20px/> 
 
-#### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-makowski/)](https://www.linkedin.com/in/alinecviana/) 
+#### - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-makowski/)](https://www.linkedin.com/in/alinecviana/) 
 
-#### ⚡Never stop learning! 🚀
+#### -⚡Never stop learning! 🚀
 <br>
 
-### ✨ GitHub Readme Stats:
+### ✨ GitHub Readme Stats ✨
 <div>
 <a href="https://github.com/alineviana">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alineviana&layout=compact&langs_count=7&theme=dracula"/>
