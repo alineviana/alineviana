@@ -2,13 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans+serif+bold&size=36&color=DF18A5D2&background=FFFFFF00&center=true&vCenter=true&lines=Hello+World!+)](https://git.io/typing-svg)
 
-<br>
 
-## **I'm Aline!** 
+### **I'm Aline!** 
 
 ***
-
-<br>
 
 **About me:**
 
