@@ -2,11 +2,11 @@
 
 <img src="./logo.svg" width="60px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans+serif+bold&size=36&color=DF18A5D2&background=FFFFFF00&center=true&vCenter=true&lines=I'm+Aline+Viana!)](https://git.io/typing-svg) 
 
-<br>
 
-> ### ***About me:*** 
+## **I'm Aline!** 
 
 ***
+
 <br>
 
 #### ° 👩🏻‍💻 I'm a Software Engineering Student
