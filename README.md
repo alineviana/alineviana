@@ -1,5 +1,3 @@
-<br> 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=150&section=header&text=Hello%20World!👩🏻‍💻&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 <img src="./logo.svg" width="60px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans+serif+bold&size=36&color=DF18A5D2&background=FFFFFF00&center=true&vCenter=true&lines=I'm+Aline+Viana!)](https://git.io/typing-svg) 
