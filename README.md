@@ -1,10 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=150&section=header&text=Hello%20World!👩🏻‍💻&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=150&section=header&text=Hello%20World!&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-<img src="./logo.svg" width="60px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans+serif+bold&size=36&color=DF18A5D2&background=FFFFFF00&center=true&vCenter=true&lines=I'm+Aline+Viana!)](https://git.io/typing-svg) 
+<img src="./logo.svg" width="60px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans+serif+bold&size=36&color=DF18A5D2&background=FFFFFF00&center=true&vCenter=true&lines=I'm+Aline+Viana+👩🏻‍💻)](https://git.io/typing-svg) 
 
+***
+<br>
 
 > ### About me: 
-***
+
+
+
 #### ° 👩🏻‍💻 I'm a Software Engineering Student
 
 #### ° 💻 Learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=20px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=20px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=16px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=17px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=17px />
