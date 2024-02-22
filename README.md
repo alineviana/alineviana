@@ -4,9 +4,7 @@
 
 <br>
 
-<!-- <h1 align="center" style="color: white"> <strong style="color: purple"><</strong> I'm Aline Viana <strong style="color: purple">/></strong> </h1> -->
-
-<h1 align="center" style="color: white"> <strong style="color: purple"><</strong> 👋 I'm Aline Viana <strong style="color: purple">/></strong></h1>
+<h1 align="center" style="color: white"> <strong style="color: purple"> < </strong> 👋 I'm Aline Viana <strong style="color: purple"> /> </strong> </h1>
 <h3 align="center">Software Developer</h3>
 <br>
 
