@@ -4,7 +4,10 @@
 
 <br>
 
-<h1 align="center"> < I'm Aline Viana /> </h1>
+<!-- <h1 align="center" style="color: white"> <strong style="color: purple"><</strong> I'm Aline Viana <strong style="color: purple">/></strong> </h1> -->
+
+<h1 align="center" style="color: white"> <strong style="color: purple"><</strong> 👋 I'm Aline Viana <strong style="color: purple">/></strong></h1>
+<h3 align="center">Software Developer</h3>
 <br>
 
 > ### About me: 
@@ -14,6 +17,7 @@
 #### ° 💻 Languages and Tools:
 
 ![My Skills](https://skillicons.dev/icons?i=angular,react,javascript,typescript,php,laravel,nodejs,mysql,sqlite,jquery,html,css,boostrap&perline=4)
+
 #### ° 📫 Connect with me:  <a href="https://linkedin.com/in/alinecviana" target="_blank"> <img align="center" src="https://img.shields.io/badge/-alinecviana-00004d?style=flat&logo=linkedin" alt="linkedin"/> </a>
                  
 <br>
