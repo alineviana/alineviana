@@ -21,7 +21,7 @@
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alineviana&theme=rose_pine)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alineviana&theme=rose_pine)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alineviana&theme=rose_pine)
 
 <br>
 
