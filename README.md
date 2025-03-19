@@ -10,11 +10,11 @@
 
 > ### About me: 
 
-#### ° 👩🏻‍💻 I'm a Software Engineering Student 
-#### ° 🔭 I’m currently working at **Valley Irrigation | A Valmont Company**
+#### ° 👩🏻‍💻 I'm a Software Developer
+#### ° 🔭 I’m currently working at **Oficina5**
 #### ° 💻 Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=angular,react,javascript,typescript,php,laravel,nodejs,mysql,sqlite,jquery,html,css,boostrap&perline=6)
+![My Skills](https://skillicons.dev/icons?i=angular,react,tailwind,nodejs,nestjs,typescript,php,laravel,mysql,jquery,html,css,boostrap&perline=6)
 
 #### ° 📫 Connect with me:  <a href="https://linkedin.com/in/alinecviana" target="_blank"> <img align="center" src="https://img.shields.io/badge/-alinecviana-00004d?style=flat&logo=linkedin" alt="linkedin"/> </a>
                  
